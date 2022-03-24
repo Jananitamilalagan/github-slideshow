@@ -2,7 +2,7 @@
 
 layout: slide
 
-hello git hub
+"Hello GitHub"
 
 ---
 
